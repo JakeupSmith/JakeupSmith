@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **jasmi39@uncg.edu**
 
-- 📄 Know about my experiences [https://www.jacobsmiths.com/](https://www.jacobsmiths.com/)
+- 📄 Personal Wesbite / Portfolio: [https://www.jacobsmiths.com/](https://www.jacobsmiths.com/)
 
 - ⚡ Fun fact **- Vex Robotics State Champion (Multiple award winner) and rank 30th in the world for autonomous coding.**
 
