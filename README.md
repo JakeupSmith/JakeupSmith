@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jacob Smith</h1>
-<h3 align="center">Data Scientist // Extracting Insights From Big Data Utilizing Statistical Modeling and Machine Learning</h3>
+<h3 align="center">Backend Software Developer // Crafting Robust and Scalable Server-Side Solutions with Modern Technologies</h3>
 <img align="right" alt="Coding" width ="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHVkdjg0NWFrNDNkb3gyNW94d3dnbG1sN3BrNmJ0MWIwb3hycXA4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jakeupsmith&label=Profile%20views&color=0e75b6&style=flat" alt="jakeupsmith" /> </p>
 
-- 🔭 I’m currently working on **Expense Tracker Application**
+- 🔭 I’m currently working on **Backend Software Engineering @ Boot.dev/u/jacob**
 
-- 🌱 I’m currently learning **Data Analytics, API Implementation,**
+- 🌱 I’m currently learning **GIT, Javascript, HTTP, GO, DOCKER**
 
 - 👯 I’m looking to collaborate on **Application Development**
 
